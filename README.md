@@ -33,3 +33,4 @@ The contact form is ready to send emails! To enable email functionality:
 3. Install Nodemailer: `npm install nodemailer`
 
 Currently, the form logs submissions to console for testing. Replace the TODO section in the API route with your preferred email service.
+# Portfolio
