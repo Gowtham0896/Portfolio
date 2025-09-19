@@ -134,7 +134,7 @@ export function Contact() {
               GitHub
             </a>
             <a
-              href="https://www.linkedin.com/in/gowtham-chennavaram/"
+              href="https://www.linkedin.com/in/gowthamc92/"
               className="underline hover:text-foreground"
               target="_blank"
               rel="noopener noreferrer"

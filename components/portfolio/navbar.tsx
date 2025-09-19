@@ -45,7 +45,7 @@ export function Navbar() {
             GitHub
           </a>
           <a
-            href="https://www.linkedin.com/in/gowtham-chennavaram/"
+            href="https://www.linkedin.com/in/gowthamc92/"
             className="text-sm text-muted-foreground transition-colors hover:text-foreground"
             target="_blank"
             rel="noopener noreferrer"
